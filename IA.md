@@ -1,4 +1,4 @@
-# teoria
+
 # Conceptos Básicos de IA y Machine Learning 🤖📊
 
 ## <span style="color: #007bff;">1. Inteligencia Artificial (IA) 🌐</span>
