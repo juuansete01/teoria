@@ -1,11 +1,11 @@
-# KOTLIN (P.O.O)
+# 🟣 KOTLIN (Programación Orientada a Objetos - P.O.O)
 
-## Función
+## 🔧 Funciones en Kotlin
 ```
-fun saludar()
-{
-  print("Hola")
+fun saludar() {
+    print("Hola")
 }
+
 saludar()
 ```
 
