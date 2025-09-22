@@ -22,3 +22,24 @@ fun main() {
     val resultado = factorial(numero)
     println("El factorial de $numero es $resultado")
 }
+ Cuenta Regresiva
+
+```
+fun contarRegresivo(n:int)
+{
+  if (n==0)
+  {
+    return
+  }
+  else
+  {
+    print(n)
+    contarRegresivo(n-1)
+  }
+}
+
+fun main()
+{
+  contarRegresivo(5)
+}
+```
