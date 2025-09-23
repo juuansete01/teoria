@@ -44,3 +44,20 @@ fun main()
   contarRegresivo(5)
 }
 ```
+# suma de los primeros numeros 
+```
+fun suma(n: int) : int
+{
+  if (n==0)
+  {
+     return 0
+   }
+    else
+    {
+     return n + smd (n-1)
+     }
+   }
+fun main()
+{
+  println(suma(s))
+ }
